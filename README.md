@@ -39,6 +39,6 @@ python text2image.py --text "A black cat with blue eyes" --output "cat.png"
 
 ---
 
-(C) 2022 Tiago Tamagusko – [@tamagusko](https://tamagusko.com)
+© 2022 Tiago Tamagusko.
 
-Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
+Open Source Project distributed under the MIT license. See [LICENSE](LICENSE) for details.
