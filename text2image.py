@@ -3,10 +3,10 @@
 (c) Tiago Tamagusko, 2022. Version 0.1.0
 
 Usage:
-    python text2image.py --text "Prompt to generate image" --output "output.png"
+    python text2image.py --prompt "Prompt to generate image" --filename "output.png"
 
 Example:
-    python text2image.py --text "A black cat with blue eyes" --output "cat.png"
+    python text2image.py --prompt "A black cat with blue eyes" --filename "cat.png"
 
 Based on: https://huggingface.co/stabilityai/stable-diffusion-2
 """
