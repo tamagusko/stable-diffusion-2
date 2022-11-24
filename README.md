@@ -16,12 +16,12 @@ pip install -r requirements.txt
 
 Usage:  
 ```sh
-python text2image.py --text "Prompt to generate image" --output "output.png"
+python text2image.py --text "Prompt to generate image" --output "output"
 ```
 
 Example:  
 ```sh
-python text2image.py --text "A black cat with blue eyes" --output "cat.png"
+python text2image.py --text "A black cat with blue eyes" --output "cat"
 ```
 
 ## Release History
