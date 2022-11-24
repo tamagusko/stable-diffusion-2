@@ -15,23 +15,19 @@ pip install -r requirements.txt
 ## Usage example
 
 Usage:  
-    ``python text2image.py --text "Prompt to generate image" --output "output.png"``
+```sh
+python text2image.py --text "Prompt to generate image" --output "output.png"
+```
 
 Example:  
-    ``python text2image.py --text "A black cat with blue eyes" --output "cat.png"``
+```sh
+python text2image.py --text "A black cat with blue eyes" --output "cat.png"
+```
 
 ## Release History
 
 * 0.1.0
     * First release
-
-## Info
-
-Tiago Tamagusko – [@tamagusko](https://tamagusko.com)
-
-Distributed under the MIT license. See [LICENSE]() for more information.
-
-[https://github.com/tamagusko](https://github.com/tamagusko/)
 
 ## Contributing
 
@@ -40,3 +36,9 @@ Distributed under the MIT license. See [LICENSE]() for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+---
+
+(C) 2022 Tiago Tamagusko – [@tamagusko](https://tamagusko.com)
+
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
